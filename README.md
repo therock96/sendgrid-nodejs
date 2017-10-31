@@ -53,7 +53,7 @@ All updates to this library are documented in our [CHANGELOG](https://github.com
 If you are interested in the future direction of this project, please take a look at our open [issues](https://github.com/sendgrid/sendgrid-nodejs/issues) and [pull requests](https://github.com/sendgrid/sendgrid-nodejs/pulls). We would love to hear your feedback.
 
 <a name="contribute"></a>
-# How to Contribute
+# How to Contribute ?
 
 We encourage contribution to our libraries (you might even score some nifty swag), please see our [CONTRIBUTING](https://github.com/sendgrid/sendgrid-nodejs/blob/master/CONTRIBUTING.md) guide for details.
 
@@ -75,4 +75,5 @@ sendgrid-nodejs is maintained and funded by SendGrid, Inc. The names and logos f
 
 <a name="license"></a>
 # License
+
 [The MIT License (MIT)](https://github.com/sendgrid/sendgrid-nodejs/blob/master/LICENSE.md)
